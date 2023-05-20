@@ -23,7 +23,7 @@ user:
   name: lord-blog
   pic: /assets/img/dog.jpg
   picAlt: "lord-blog"
-  job: a category-centric theme
+  job: 无聊的
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
